@@ -1,0 +1,1922 @@
+[
+  {
+    "filename": "bulbasaur.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/bulbasaur.png",
+    "sha256": "e08d0cdad25d94cfaf423c4d6a29ae5d7d3bbfe5ca77df299f791c4986957afc"
+  },
+  {
+    "filename": "ivysaur.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ivysaur.png",
+    "sha256": "e607e0fd04c2e1dc17ca2e193ec6f02b9d9ed0efceb9d38dba8561e21df3fe55"
+  },
+  {
+    "filename": "venusaur.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/venusaur.png",
+    "sha256": "2056b786bac5a362e162e34c372d35604d2d0c522dfb42437ce706feb5eb0a68"
+  },
+  {
+    "filename": "charmander.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/charmander.png",
+    "sha256": "98205e02f068043e9a2927ff4af6086fe9bec6e9a91221a0d1076b040fbfa915"
+  },
+  {
+    "filename": "charmeleon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/charmeleon.png",
+    "sha256": "f4282f61a4cc28e102db5618dcbc2e34328917e9d1b1bd1a25b5fad42de4a7bd"
+  },
+  {
+    "filename": "charizard.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/charizard.png",
+    "sha256": "12334db30d3f825ad542e4019f86c18db698069c3657e7199a66b57139f82cbe"
+  },
+  {
+    "filename": "squirtle.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/squirtle.png",
+    "sha256": "ef7e88d0fbd4ca5227724a86270c51573be78fbc11d4ccd20d2e96f048c54db2"
+  },
+  {
+    "filename": "wartortle.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/wartortle.png",
+    "sha256": "a47cbd2d366a5e9e0794f87eb64c76b855faeedf19b9e0c3b6b78838966cc754"
+  },
+  {
+    "filename": "blastoise.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/blastoise.png",
+    "sha256": "9332f1c5517c028d9352e0bbe36cd5180d291e93a27ce71080518b35cf22c861"
+  },
+  {
+    "filename": "caterpie.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/caterpie.png",
+    "sha256": "4d42d901b55c81dd91d9e87a7ea06f0e62aa792993f7348dc64dbe80d67274a9"
+  },
+  {
+    "filename": "metapod.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/metapod.png",
+    "sha256": "90a639e3d6850756c1f40f1bd50ea0a12ae0bb92a519bd94347be18b2a33ebe9"
+  },
+  {
+    "filename": "butterfree.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/butterfree.png",
+    "sha256": "63152365491edb255b0585ccb0ba6e5798286c91d28ae8cf9985b7aa9a71d6a3"
+  },
+  {
+    "filename": "weedle.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/weedle.png",
+    "sha256": "7862af842102254415152a68a17376c8098b44e730e4f320354b6d86bd497529"
+  },
+  {
+    "filename": "kakuna.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/kakuna.png",
+    "sha256": "8ee794ddd11b8b41b28b3fd7aedae0a5f45e3ef2358cc7cc5286aba0b872006c"
+  },
+  {
+    "filename": "beedrill.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/beedrill.png",
+    "sha256": "3f4ee673b03e3c2dbf96e413d7aa923e1ede88ead067040fa92b4c5bb6988561"
+  },
+  {
+    "filename": "pidgey.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/pidgey.png",
+    "sha256": "73d39f9e57e1ff083bfac49f30acda67f82973febd0f0477ec7dca662297de5d"
+  },
+  {
+    "filename": "pidgeotto.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/pidgeotto.png",
+    "sha256": "c4759063fd7d5bd3728598cf0146bab4fae2beb53ad8f44752926fe42aa1cd55"
+  },
+  {
+    "filename": "pidgeot.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/pidgeot.png",
+    "sha256": "8e1753cd4013e313e2ea1c8d8047bb6c39518be507982c6bfa6bc2ab9e54d858"
+  },
+  {
+    "filename": "rattata.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/rattata.png",
+    "sha256": "fe921294ef9dddc7a8c6bb19cf4e42f98064f0908a5ffa00da2af8575ef6869a"
+  },
+  {
+    "filename": "raticate.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/raticate.png",
+    "sha256": "884ef2236e20f2c1952cc90bec05d126d1001941d01d1e8624ba178458c9aa6b"
+  },
+  {
+    "filename": "spearow.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/spearow.png",
+    "sha256": "aa88b2208fc300d267fcb23145d67394ef7f30ca352d82c49e3e81edf5e42dc5"
+  },
+  {
+    "filename": "fearow.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/fearow.png",
+    "sha256": "9cf8f3518874dba6bc8a0e875235d05fef28ce073b651bb2ea78ffd1dac77388"
+  },
+  {
+    "filename": "ekans.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ekans.png",
+    "sha256": "065a12a5aa796eae53f069bcc102a63b8a84c74f6bf4c5a56c6a8fff689a8126"
+  },
+  {
+    "filename": "arbok.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/arbok.png",
+    "sha256": "aac3de5cff53413775a479eeeb20c03780cd7f459393829502e39c3f7309072b"
+  },
+  {
+    "filename": "pikachu.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/pikachu.png",
+    "sha256": "2ac2501e2e01c1bea5030ac3208dfb6b065a04968553b1676cdc7248c601fb57"
+  },
+  {
+    "filename": "raichu.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/raichu.png",
+    "sha256": "5ad1ee25ae2a8474e0579ef266d4646ed0ecb75e64b256f3a7255d00f7d2b8c4"
+  },
+  {
+    "filename": "sandshrew.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sandshrew.png",
+    "sha256": "f184b22b2ef547668b9451aefb9beb3ef8320cf502fe3dd5d468d26d5f4d3d78"
+  },
+  {
+    "filename": "sandslash.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sandslash.png",
+    "sha256": "9d79a3427c4fac17102131a66727a3d3f27fc20b666ae63bf0f2f7ea70644d5e"
+  },
+  {
+    "filename": "nidoran-f.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidoran-f.png",
+    "sha256": "d61bcbc0f0e9ab28f60a1fc807865357802e8448fb320c86ef309aa36205f60c"
+  },
+  {
+    "filename": "nidorina.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidorina.png",
+    "sha256": "5d09a89a51c5df3ed7d5a57dbe803b0b05a356e54a2c2fd81592d5e9520cb954"
+  },
+  {
+    "filename": "nidoqueen.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidoqueen.png",
+    "sha256": "e3778923568faf9188e71f2977309588a184524706650325a8801f913f544c55"
+  },
+  {
+    "filename": "nidoran-m.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidoran-m.png",
+    "sha256": "34221b725df17a9f32b7c648acd963bd7d32ce39fbbc725877cfa9df9979b2f1"
+  },
+  {
+    "filename": "nidorino.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidorino.png",
+    "sha256": "39eee25ad447903eeb5570486a18f9893f43652872c0e500d648a7e9bd622094"
+  },
+  {
+    "filename": "nidoking.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/nidoking.png",
+    "sha256": "d820e8629b3e9ad97ed1ac614ece3b51eaa6a172dc4ca8428524d057903ecc8a"
+  },
+  {
+    "filename": "clefairy.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/clefairy.png",
+    "sha256": "131a75a68647d334725d1fffbbe0fe2aa9464132b5b309ec4c068f2f1ee0d560"
+  },
+  {
+    "filename": "clefable.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/clefable.png",
+    "sha256": "7600089a6e41f5e95cdad7a0895d955a425356ca1d85fe520d0fb14b6524c0d6"
+  },
+  {
+    "filename": "vulpix.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/vulpix.png",
+    "sha256": "2d87bbce20038c4afb52027209b037dc10af5a212bda10bd77f56bbd3c57a7ca"
+  },
+  {
+    "filename": "ninetales.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ninetales.png",
+    "sha256": "3616e09f634c4be91d64f1cb7a7d8d3a279a1ead7acf01ed168d941efda4d795"
+  },
+  {
+    "filename": "jigglypuff.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/jigglypuff.png",
+    "sha256": "66a0ec7b222ee67a3ed4c6d5e9700fe394806ddbd2fd0172e2bb8291b84787a1"
+  },
+  {
+    "filename": "wigglytuff.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/wigglytuff.png",
+    "sha256": "6daf82bc1691bdce3f2c427447d3dc2b8801eff0627077699e50424d389f422d"
+  },
+  {
+    "filename": "zubat.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/zubat.png",
+    "sha256": "10c4b1ea448ff0c6ec04f5905d2ba2e31c7bd42330e8e078d6a8377862c39fc7"
+  },
+  {
+    "filename": "golbat.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/golbat.png",
+    "sha256": "faebed5e5a4f4d8d933734c07b0a8d2ff796cb5742fdb1eeafa3e23d45296aa9"
+  },
+  {
+    "filename": "oddish.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/oddish.png",
+    "sha256": "3a405ce947e87d61ebfb6d4a2fb2be6b98d47f93302706fa84b126363847fe89"
+  },
+  {
+    "filename": "gloom.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/gloom.png",
+    "sha256": "bfd9afabee62a74c6fb15a0f05bc749ff5152068e6cf500e02ed4cf1e03ef28a"
+  },
+  {
+    "filename": "vileplume.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/vileplume.png",
+    "sha256": "ce5f55aee4235a37f9362637d45983c5e28906b6e4d8f6deb1df982e51925397"
+  },
+  {
+    "filename": "paras.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/paras.png",
+    "sha256": "ce987b7567fb70971ba2a6e8ddb7808382498cddcd6d8e7887ead116747095bb"
+  },
+  {
+    "filename": "parasect.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/parasect.png",
+    "sha256": "b6358540bd7196fd6d8a7b471649741e45e16f30bdefd6b3ba6ad808a83c3b3a"
+  },
+  {
+    "filename": "venonat.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/venonat.png",
+    "sha256": "7d76743f09878e38dcd58607438c653769de2330a2c7e9313fae801c5f8317a0"
+  },
+  {
+    "filename": "venomoth.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/venomoth.png",
+    "sha256": "5e747a2d1e7ff7cf04e882878de12d93e9813ce73cc5f92c15121f071ea073c2"
+  },
+  {
+    "filename": "diglett.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/diglett.png",
+    "sha256": "5b977870bdd8b37c399dce620c582b6a7f216d3ca46b70fef61bb07b52994da4"
+  },
+  {
+    "filename": "dugtrio.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/dugtrio.png",
+    "sha256": "2308b50d8ab6fe64912fd1983470c55a86fbc74d3986cc8bb8c53b45e2048466"
+  },
+  {
+    "filename": "meowth.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/meowth.png",
+    "sha256": "f32ddeb714bb9a593999b423394f7a91d9cd20ef70f7ca65d7831232e11ba101"
+  },
+  {
+    "filename": "persian.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/persian.png",
+    "sha256": "76881a9624b208b40c0a783d99be8883fd53f4af85dcd9698fb8a3d8a5797c18"
+  },
+  {
+    "filename": "psyduck.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/psyduck.png",
+    "sha256": "20421a9dcd71f119d2803484ba303dff2ae9da7c5d86ff03064c1075bf804ce5"
+  },
+  {
+    "filename": "golduck.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/golduck.png",
+    "sha256": "965986197c4e77506f73e87738230ca3d7a7a902559abb5e58e5367655f3359d"
+  },
+  {
+    "filename": "mankey.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/mankey.png",
+    "sha256": "56e7c8a18083eb520e54043541b21413f11a126701317d2958596c1434252a5f"
+  },
+  {
+    "filename": "primeape.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/primeape.png",
+    "sha256": "2624abad5786d2a1645524d2a38ccd66e0fd2cddcee64f75e3efc4d7703b0322"
+  },
+  {
+    "filename": "growlithe.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/growlithe.png",
+    "sha256": "e2dc649a26ac83acd6ca16d3cb3d9682fa7b51cc07776a7f012673cd88d7a932"
+  },
+  {
+    "filename": "arcanine.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/arcanine.png",
+    "sha256": "5d7013263086e6cbf9342545be4364be9603383e6a86790a6068a7f0c7ff79f2"
+  },
+  {
+    "filename": "poliwag.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/poliwag.png",
+    "sha256": "92dd37a05d65761bbcb3f765f1d6349d7d12cb2e84e2c052b09e945fdb02f727"
+  },
+  {
+    "filename": "poliwhirl.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/poliwhirl.png",
+    "sha256": "e428d4883cc4c050a748c74c32e26b9676ba6c80c6b7c770af8ab1f19a9e9e97"
+  },
+  {
+    "filename": "poliwrath.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/poliwrath.png",
+    "sha256": "ac5b7a18627b7504af22c9d2e0714d5f68d1375874ec2c69a2a6ca0cc61d94a0"
+  },
+  {
+    "filename": "abra.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/abra.png",
+    "sha256": "02a9368f43c69236fb45b1f2601d9e2ab962a9a4e8d88e9f3dcc507a09c84f5c"
+  },
+  {
+    "filename": "kadabra.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/kadabra.png",
+    "sha256": "fde55fb182c279e242eaa3fc0271a81f216caeac7f51206a2269988a8072a098"
+  },
+  {
+    "filename": "alakazam.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/alakazam.png",
+    "sha256": "f961fc42ddb088ee3dc78ceaba3a4991dd75ce2c62c2011a1b01341afd110936"
+  },
+  {
+    "filename": "machop.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/machop.png",
+    "sha256": "512b530936a60611b5c29408aa54bd95d2f9b5cefad4f431067332cbc2b84ab2"
+  },
+  {
+    "filename": "machoke.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/machoke.png",
+    "sha256": "c1723d96715c3682bea30f86e417eac78893d77fc5211f27f3f82657660b489b"
+  },
+  {
+    "filename": "machamp.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/machamp.png",
+    "sha256": "e5d3347afccfa9adcecf192dfd4ed2b2294cc58310aec0e6ca6b758cb900dbc8"
+  },
+  {
+    "filename": "bellsprout.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/bellsprout.png",
+    "sha256": "13aae23d1747ead45c286bb34f6b6835da44be590817f402491b494ab3c25e8d"
+  },
+  {
+    "filename": "weepinbell.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/weepinbell.png",
+    "sha256": "4d6af0963c7ba9419ed59bff092829b5d2dbaeb377efcde59fc97611d14beef6"
+  },
+  {
+    "filename": "victreebel.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/victreebel.png",
+    "sha256": "34e9cc87938620582dd497eef145def7e9edb992c981a4f515c146b4b0ac0975"
+  },
+  {
+    "filename": "tentacool.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/tentacool.png",
+    "sha256": "463a956670a2ce97ac0240539e09864c0a81a853cfecb38c18efa857d7572cec"
+  },
+  {
+    "filename": "tentacruel.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/tentacruel.png",
+    "sha256": "93a07082ba96320997ed26fcc2dffc8a4ce4cc7ad58987fe0a54082f21692c97"
+  },
+  {
+    "filename": "geodude.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/geodude.png",
+    "sha256": "bf93a270720b09afc53a3501faefb2441165cb7cb082b3b072ac695f4ccf1282"
+  },
+  {
+    "filename": "graveler.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/graveler.png",
+    "sha256": "48ca90e1804497827cbcdb68f71e78bb55e0ee93a276e3b6d12a60d4173afaa5"
+  },
+  {
+    "filename": "golem.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/golem.png",
+    "sha256": "52a224a84cbb22ce309983c8c5e7f8b0474ca74c6cd6d563a5b6d444730e51c6"
+  },
+  {
+    "filename": "ponyta.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ponyta.png",
+    "sha256": "cd82b0812e2fc27b7bae746afc869573f9ecc20499921740b72155c8850f8de9"
+  },
+  {
+    "filename": "rapidash.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/rapidash.png",
+    "sha256": "15fe01f73f3511d03fad0f7c4644657ed28408d7322f3a172039d20dd686b323"
+  },
+  {
+    "filename": "slowpoke.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/slowpoke.png",
+    "sha256": "84ebbf336db02748f27db45bf668ed6b643b43c635dc02620c9c3b31ac182500"
+  },
+  {
+    "filename": "slowbro.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/slowbro.png",
+    "sha256": "100b2d66adde8471feeba88b6c9d102559748fa72142b17c53e1e59f7d96d411"
+  },
+  {
+    "filename": "magnemite.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/magnemite.png",
+    "sha256": "92f1aa88f51a5ea022671fed4bec3bc4d0e5f2c4a7a98f568fd7c4683b966520"
+  },
+  {
+    "filename": "magneton.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/magneton.png",
+    "sha256": "f560931b0e49271b8013d6815b63e99ae443277bdb84e72b8fb40325507ebb7e"
+  },
+  {
+    "filename": "farfetchd.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/farfetchd.png",
+    "sha256": "5ee89b02741f5763339b59fc14fd946be893520ceb931595df7b9812b06e613d"
+  },
+  {
+    "filename": "doduo.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/doduo.png",
+    "sha256": "e72d618008c07e73357c5aba4f898449e49216f79f3f870a7ee7a982d35f0254"
+  },
+  {
+    "filename": "dodrio.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/dodrio.png",
+    "sha256": "2ea2222f928ba2480b7a530a0805c1a583c3e7a9d89b5972d30a3c828c9d21b8"
+  },
+  {
+    "filename": "seel.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/seel.png",
+    "sha256": "6f44cc7b1c792c3600d22c6e98fbae8de56b601f8f24f432ea812bfe38c8b705"
+  },
+  {
+    "filename": "dewgong.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/dewgong.png",
+    "sha256": "69b0f1c0dd04514932b1243e357ea86e858087f7b7af70e4cd3986a1e17bd7ec"
+  },
+  {
+    "filename": "grimer.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/grimer.png",
+    "sha256": "bd0f6d187ec91c598ec8c60082414a3004a065f0d1fad85f748e11efd2e12f5c"
+  },
+  {
+    "filename": "muk.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/muk.png",
+    "sha256": "8dca0e4000c2a84d23b477477a0835c88d77ecacc7f3749b89aea9239ac6e373"
+  },
+  {
+    "filename": "shellder.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/shellder.png",
+    "sha256": "5cf266b7350dad28df724b9fe2d99f00422cae969ce09cf9fb2ee5d1b0ac5154"
+  },
+  {
+    "filename": "cloyster.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/cloyster.png",
+    "sha256": "5350293d1bfbcf5d78aae19dbac5faa45282df83dbbb7ab4a148fc5b9858c0a3"
+  },
+  {
+    "filename": "gastly.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/gastly.png",
+    "sha256": "d7f43de878fedd4165dc36fd2e28c40408aaf6e7e76f708519435e6d34ce9e25"
+  },
+  {
+    "filename": "haunter.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/haunter.png",
+    "sha256": "a93851a2c161a93f9762cfe0e0d7d4c6f2147e28df884476c49f08e44f56b322"
+  },
+  {
+    "filename": "gengar.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/gengar.png",
+    "sha256": "56252044fbeea84da5e4dc6abf72674e1147c72d6bb5f7e3667db1f99eefb456"
+  },
+  {
+    "filename": "onix.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/onix.png",
+    "sha256": "676121e4ca62fd4b4a2335babf08ded4084835ba70ad08f4a8a5b2da64b4388a"
+  },
+  {
+    "filename": "drowzee.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/drowzee.png",
+    "sha256": "3aa879e9fdcbf0335485040aed94efee1d1326db77a9432ea2ee685286bee550"
+  },
+  {
+    "filename": "hypno.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/hypno.png",
+    "sha256": "16c03fe2f4aed62ca0806070a91aa8685f478e6edd279c0dfa58541a6c119590"
+  },
+  {
+    "filename": "krabby.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/krabby.png",
+    "sha256": "08b053830bb6382433fb14e25c7bdf9b02acc3c9798d94ff4f1050dec3786039"
+  },
+  {
+    "filename": "kingler.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/kingler.png",
+    "sha256": "c318c0a97ce6afc85d644ebedc4616cf7b5c6e0319ddbd46acb99ba78f45dc78"
+  },
+  {
+    "filename": "voltorb.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/voltorb.png",
+    "sha256": "750ef8cdb4f4319821c4d3bb501ce46e8998ec6fede2b58cb145f7ad3dc4467b"
+  },
+  {
+    "filename": "electrode.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/electrode.png",
+    "sha256": "e3d630998f8b16526aba186d67b65c0ce564adc62b6d560aeb66fc5f0b3e2951"
+  },
+  {
+    "filename": "exeggcute.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/exeggcute.png",
+    "sha256": "93aefad7398e1de6e1a5061e66d25ff8b5ee0d5580062b3ba0b7ec94d64af838"
+  },
+  {
+    "filename": "exeggutor.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/exeggutor.png",
+    "sha256": "49dc84b70e21ca8b1cb21e31c60bdf19d0ea24e4ed10a9da79e3135d09925c2f"
+  },
+  {
+    "filename": "cubone.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/cubone.png",
+    "sha256": "6c3db466e2029af12d8cc89198d67b984f0f82680af1c956280229a8834915a8"
+  },
+  {
+    "filename": "marowak.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/marowak.png",
+    "sha256": "de750743fe11e001efaebebc8d4cb1dd92513d0b288885f647d11472b7d4f543"
+  },
+  {
+    "filename": "hitmonlee.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/hitmonlee.png",
+    "sha256": "8985e99637bde2f6f089082fc40d9a5f12e78f1d410e86d201bd59dbc3798e98"
+  },
+  {
+    "filename": "hitmonchan.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/hitmonchan.png",
+    "sha256": "58468cd83656c579af0f12fd6c1ec599bf6835f1ba56ab5e33ae01c5657a3bb9"
+  },
+  {
+    "filename": "lickitung.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/lickitung.png",
+    "sha256": "7d696b7aeadc2c6c03f085dae493f62f3065998d2391341af2faa41c812801a9"
+  },
+  {
+    "filename": "koffing.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/koffing.png",
+    "sha256": "49f060e91caefa08eb9be01b22d1efe420b613e71586f4538f00e0d00811248b"
+  },
+  {
+    "filename": "weezing.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/weezing.png",
+    "sha256": "22ba3ed82de64ffd99f0e039372c6530e96557e1677768ad4228e8f97ec2cd6e"
+  },
+  {
+    "filename": "rhyhorn.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/rhyhorn.png",
+    "sha256": "7c7e257663e1c93d89cb2dda0ef3f2cd12b3a4d1e80ba4d9b830654ee55d2296"
+  },
+  {
+    "filename": "rhydon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/rhydon.png",
+    "sha256": "3190319197d1b885158accfe0b8337057af089b46bb5aa942157d77738e21063"
+  },
+  {
+    "filename": "chansey.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/chansey.png",
+    "sha256": "3ef4e31af938cd39c00cc276c689f94e334658a3ef28ec4db25517ea5f19515e"
+  },
+  {
+    "filename": "tangela.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/tangela.png",
+    "sha256": "31f9bdecf6b645d986f1536ef3f07a32027ce40206b19eae560b1c2bd5de430d"
+  },
+  {
+    "filename": "kangaskhan.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/kangaskhan.png",
+    "sha256": "dba30494d3b5c38e5f6babeab508e855ba84a90f36ee563af9e938e8a6709959"
+  },
+  {
+    "filename": "horsea.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/horsea.png",
+    "sha256": "f2e40e12f4ff080a0691851bbb55b749edd93c1ae3f7f0a05ca7442467195de5"
+  },
+  {
+    "filename": "seadra.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/seadra.png",
+    "sha256": "af20fed408297ff80a4a7271bc0e47729d3ca9192be97bf928414f42fca2a78b"
+  },
+  {
+    "filename": "goldeen.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/goldeen.png",
+    "sha256": "5374e74379bae06648a6ccd2ac675c8b692ae24bcbc618fa9ab1f957bc20589a"
+  },
+  {
+    "filename": "seaking.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/seaking.png",
+    "sha256": "1e5b565dbce95542d9cd08efbf7b1a9ae18c92e290ba19f4c79fa26fd2ed1dc5"
+  },
+  {
+    "filename": "staryu.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/staryu.png",
+    "sha256": "fa91cdaff72bb7149362c0833965746ba4dc153b0a580fab94b0381907b54e78"
+  },
+  {
+    "filename": "starmie.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/starmie.png",
+    "sha256": "19e7e880ea2d01a9c54d63604dec2fec7206774f1ea32ac9a55943500b68f6a9"
+  },
+  {
+    "filename": "mr-mime.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/mr-mime.png",
+    "sha256": "a51c741c9296235bdc11a3cf1c0f8aca96e8d939c70859de7685faedd25c21b8"
+  },
+  {
+    "filename": "scyther.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/scyther.png",
+    "sha256": "ac00d867ebca9fb8668b957fc48a0fb0912ac7a74967be4ee5deb24a29ef16b1"
+  },
+  {
+    "filename": "jynx.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/jynx.png",
+    "sha256": "46608653e83c1393e13540ba0ed65735aa3a5b6ca5be2ed66473043ca79e0f42"
+  },
+  {
+    "filename": "electabuzz.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/electabuzz.png",
+    "sha256": "4ac5aeb1366f4d1c2fbd281bd6844afe71bcf0c09a1b0c7e26138db05191e643"
+  },
+  {
+    "filename": "magmar.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/magmar.png",
+    "sha256": "ad9e44384a58913ccae78c253673e2d29b930548a51b3873fe1a5f76fd9fe213"
+  },
+  {
+    "filename": "pinsir.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/pinsir.png",
+    "sha256": "61f89794e0fa6df2646eeea4c29b532eebf0c403284983823fdd1e742617538a"
+  },
+  {
+    "filename": "tauros.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/tauros.png",
+    "sha256": "bfcf1d8f5184db4035235d9483ed2d0abdd45981b4e21da237e03bff02891f3f"
+  },
+  {
+    "filename": "magikarp.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/magikarp.png",
+    "sha256": "8ed107d1f728fc54eeae16f5ea0ec9b81ec5518d788493e940a4882da9c3111d"
+  },
+  {
+    "filename": "gyarados.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/gyarados.png",
+    "sha256": "35a527804a98ead76dbde3dfb2dc282e07d3a0f9a9b942cff4f7c63b00ced851"
+  },
+  {
+    "filename": "lapras.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/lapras.png",
+    "sha256": "88f3f4eddc3111cd66b49c3157f3ecc0c1c5a20af32ce1005ae83344731b2448"
+  },
+  {
+    "filename": "ditto.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ditto.png",
+    "sha256": "f727547b1fefa292e5827313be0c6c955ed2339cc6091937bc61757436ecbe2a"
+  },
+  {
+    "filename": "eevee.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/eevee.png",
+    "sha256": "f7b8eaf64363a50be11906172e84130b5eaf1baaca0b0df335ac32d7d4621687"
+  },
+  {
+    "filename": "vaporeon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/vaporeon.png",
+    "sha256": "c85877531d403f662489334f49582cef6cb37504d253992bdb6ff47cd38afa65"
+  },
+  {
+    "filename": "jolteon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/jolteon.png",
+    "sha256": "106896fbc52e5eafb2c4c319eefd10d192d8955d5e27e521251f2832b9c6daa0"
+  },
+  {
+    "filename": "flareon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/flareon.png",
+    "sha256": "640e9db9a8f9bacf22fb0242153a09c7b7e0e3ce5f741d6d3bba17bf843c9718"
+  },
+  {
+    "filename": "porygon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/porygon.png",
+    "sha256": "915f0cb084105895199413def14f49b612a481be2af3ee784e95a00d27da03d4"
+  },
+  {
+    "filename": "omanyte.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/omanyte.png",
+    "sha256": "c329fb5aadc97fd4cbffc7b1f241fad5d8e46be703c8f16fa26aaa3fd7a20409"
+  },
+  {
+    "filename": "omastar.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/omastar.png",
+    "sha256": "5777622bc2423fcdcb05de1e905f3f9a75ccf99855cfed793cfaf040c06917ae"
+  },
+  {
+    "filename": "kabuto.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/kabuto.png",
+    "sha256": "735cc2a852acacead19ae933bc8c9611e5c6a4cb75f728867a29d7d1c3571bb0"
+  },
+  {
+    "filename": "kabutops.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/kabutops.png",
+    "sha256": "13673d2e7049c931025cb32d5403fe307950ed0a54a14e3626cff19ec52624fb"
+  },
+  {
+    "filename": "aerodactyl.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/aerodactyl.png",
+    "sha256": "9aa6c01f6fdf87eb45138291f724081a1c208efd2a8af9d4810d36325d76644f"
+  },
+  {
+    "filename": "snorlax.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/snorlax.png",
+    "sha256": "5685573f324b7044dbe7d045cd515d32b21e5ddd537d20ad4953dda44f6436a7"
+  },
+  {
+    "filename": "articuno.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/articuno.png",
+    "sha256": "7b3316b32583f3c99f75ca4a73c2980f8f695f63738898a827c52b644dbf4b1b"
+  },
+  {
+    "filename": "zapdos.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/zapdos.png",
+    "sha256": "05eb8dad7fdb90c119de5e7eccca18e102e2f00fc3080087af95fa0539d6f378"
+  },
+  {
+    "filename": "moltres.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/moltres.png",
+    "sha256": "6a7defe8ec139cb69a2907023f752b3b9536e43930a22e280218c651d2af9b86"
+  },
+  {
+    "filename": "dratini.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/dratini.png",
+    "sha256": "f90a38de85ccd1dd70f773da78b76f797447897d73fcd36700056ff11234b1a5"
+  },
+  {
+    "filename": "dragonair.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/dragonair.png",
+    "sha256": "f7f9d111807e04b6723c6fbea281f451ac9ea242bfebfdddc6f8903f8fce181e"
+  },
+  {
+    "filename": "dragonite.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/dragonite.png",
+    "sha256": "3f245f8d2dfaeb47d3613cbf90b967679261eca8f9e6ba8f30e9edf0a81d5180"
+  },
+  {
+    "filename": "mewtwo.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/mewtwo.png",
+    "sha256": "3e9a48edc3f1a82781154ab4bbd0838a5655b176e25bf3f1a31a6cc84afcc38a"
+  },
+  {
+    "filename": "mew.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/mew.png",
+    "sha256": "30fdd96085322757c060b147f1c9ef2a7ea498da40c3867d023f48f4f1deba37"
+  },
+  {
+    "filename": "chikorita.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/chikorita.png",
+    "sha256": "0de0f89c9089d72acb7202627e9b62dd15768941d7b6b7fda6b74d2872265c12"
+  },
+  {
+    "filename": "bayleef.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/bayleef.png",
+    "sha256": "578cde6d3038b03f6da6d8802b6b8bcdefa3f33453d1f7919262a4addf8d9d4a"
+  },
+  {
+    "filename": "meganium.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/meganium.png",
+    "sha256": "c8007d877d1a17209acc8747a6fcceeece27e9be74f20724d7a4aec474b88e82"
+  },
+  {
+    "filename": "cyndaquil.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/cyndaquil.png",
+    "sha256": "1066ed61fd688df4b089abef146e160387760c957677915771b9dc2c2f08961c"
+  },
+  {
+    "filename": "quilava.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/quilava.png",
+    "sha256": "624e4d39f78ef3ff8721e958671af41353a3431dbd6874ebb868f470573632ea"
+  },
+  {
+    "filename": "typhlosion.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/typhlosion.png",
+    "sha256": "79ae445f0b451de3e9897097184030852ada248132a42d9e22db10a2a857b6c0"
+  },
+  {
+    "filename": "totodile.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/totodile.png",
+    "sha256": "7f0703a7ebd6c2979085f97d256726e7e464012d284abea8794a0f9f2753ccdd"
+  },
+  {
+    "filename": "croconaw.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/croconaw.png",
+    "sha256": "f2c7d472913905495252f9fdad079fdcf68f17fb36adbc59f561584078877aca"
+  },
+  {
+    "filename": "feraligatr.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/feraligatr.png",
+    "sha256": "92ddd4fc5fc09951ea3398d68d154be7d58347c9b9c923de72e8a8c5d6c7aab2"
+  },
+  {
+    "filename": "sentret.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sentret.png",
+    "sha256": "3a0888100fd0962e2fbf8fc090e57fe3ec5bb9f564e25fa32afd75c25b8ad8ec"
+  },
+  {
+    "filename": "furret.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/furret.png",
+    "sha256": "b5db8ae4cb800489bdf0de4b58ccc433f1fda22c93421c095c4117b66fdff587"
+  },
+  {
+    "filename": "hoothoot.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/hoothoot.png",
+    "sha256": "8c3ce2f51b1497344faa4d2439e2f875d5a581fa47d155ee4b5d42ac87dfb472"
+  },
+  {
+    "filename": "noctowl.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/noctowl.png",
+    "sha256": "ed5cd1532e6e22425c48a69f162c3ab7c79b61d1510aabbfbf232ccc97667e30"
+  },
+  {
+    "filename": "ledyba.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ledyba.png",
+    "sha256": "7bcfed476f5e80c3d9351d00d7574da9107fc92dbb09024009c7f5137848ac0c"
+  },
+  {
+    "filename": "ledian.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ledian.png",
+    "sha256": "9323382c441d05606df556bdfbb43018df871acd740bb03f6395b98f573344f5"
+  },
+  {
+    "filename": "spinarak.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/spinarak.png",
+    "sha256": "eee74267b98b3a1c735be07e672da18801ecc784e27149fecaaf2e2bb1a0348d"
+  },
+  {
+    "filename": "ariados.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ariados.png",
+    "sha256": "f3c0384b99def7513eef5f75b30196d17b5bdc27372a0e59ffc476777dbce2a1"
+  },
+  {
+    "filename": "crobat.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/crobat.png",
+    "sha256": "581d090bf621a9ac8babb8e4eff0efe8d56a37af6603baab04262f0ab5493de4"
+  },
+  {
+    "filename": "chinchou.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/chinchou.png",
+    "sha256": "9888d4359ef7a745bb1719e3e99521961e191135093b20cbca95d55a5f936afd"
+  },
+  {
+    "filename": "lanturn.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/lanturn.png",
+    "sha256": "17bbe994bd39b2ec049982449b9b10cb75371257b97e642d8e64a94611b7d87e"
+  },
+  {
+    "filename": "pichu.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/pichu.png",
+    "sha256": "c09efb1d38c55067232cb438c66cceb59ddae65c0acc3131b65f1f55080d8870"
+  },
+  {
+    "filename": "cleffa.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/cleffa.png",
+    "sha256": "cd38de5d8c0423eefc5d1e0b6a98042390b37ef538da87ed91c27600c78ce751"
+  },
+  {
+    "filename": "igglybuff.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/igglybuff.png",
+    "sha256": "7dbce0ebf4455106a1c09ef5501b25cf5d60dbe2ac6ae7d66240c64f736d816c"
+  },
+  {
+    "filename": "togepi.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/togepi.png",
+    "sha256": "e2ed3f3218fc5e1b377b161f0419a6b5f8005cfc44ea8ac211152ff4aa91e49b"
+  },
+  {
+    "filename": "togetic.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/togetic.png",
+    "sha256": "e2eb49918e055a76b418f7dc13d90e73de71b1f1609facc2c9159e85c4b83925"
+  },
+  {
+    "filename": "natu.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/natu.png",
+    "sha256": "e077bafe4302046fe0aea3c64717dbb0f4e673aa749b806f7b022f32397aa4cf"
+  },
+  {
+    "filename": "xatu.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/xatu.png",
+    "sha256": "68a96eafbc1630c7764b5c27ca8118554aaf55d482ac0bca74db97714a4df141"
+  },
+  {
+    "filename": "mareep.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/mareep.png",
+    "sha256": "eacbe751bacda9e64cd9d6e213cd5e6f67787195ca6917405127e67b4a4fe24c"
+  },
+  {
+    "filename": "flaaffy.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/flaaffy.png",
+    "sha256": "e8ea801c51523bb249d5c5322969e8908ef85c2c4e050eb1e8ec0ea0d2cbb26a"
+  },
+  {
+    "filename": "ampharos.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ampharos.png",
+    "sha256": "b5eff1ff2895a2b49e05412b1e5af87d974577a939b73a914aa3abc513ba5252"
+  },
+  {
+    "filename": "bellossom.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/bellossom.png",
+    "sha256": "ac390b082d229f5db40c8fc3b95cb7d0cc47bbe759cae03e130e1bf350cc51f5"
+  },
+  {
+    "filename": "marill.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/marill.png",
+    "sha256": "2901c2ec7471453f307a9a8bc3981181c189abb49ee74212f246cc1a953f2cd8"
+  },
+  {
+    "filename": "azumarill.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/azumarill.png",
+    "sha256": "d50c8d3e7e308aa8ebcb947c19cc0090aab130d9a61afd8a4581b5c05b764a22"
+  },
+  {
+    "filename": "sudowoodo.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sudowoodo.png",
+    "sha256": "aa7d9206ff012c5a39e38ecd00e416c986433fca7097c38398b1e54e962a2808"
+  },
+  {
+    "filename": "politoed.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/politoed.png",
+    "sha256": "e56fe2ce64f31e487acab827a3427e85d0411716b2f860d41c73191bc8b731cd"
+  },
+  {
+    "filename": "hoppip.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/hoppip.png",
+    "sha256": "e2399628a65cda31c83f62dde0ca3b4052a4afa8d1f400f1c75e30ee61d30a21"
+  },
+  {
+    "filename": "skiploom.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/skiploom.png",
+    "sha256": "18f12ed38b9f531ee1ed69a7fa2bc04d2f39aab34941462067db6e6043b8dabc"
+  },
+  {
+    "filename": "jumpluff.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/jumpluff.png",
+    "sha256": "a52023bf2d3638e5b489beea63790834cc15285f632f0e9ce8deb932ac37d3df"
+  },
+  {
+    "filename": "aipom.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/aipom.png",
+    "sha256": "e3f5f952a5c99fed72b5c80939863e36a724c65e3444d63f0f388c02c7a42db7"
+  },
+  {
+    "filename": "sunkern.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sunkern.png",
+    "sha256": "707a2715d2a4348c19167b627eef35054110152ec156fabf8e3824e42827f978"
+  },
+  {
+    "filename": "sunflora.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sunflora.png",
+    "sha256": "39ef34adb0ef01b4cdad73c7a8aeffef30ac1eb78f3c7e018a820d64a644f89f"
+  },
+  {
+    "filename": "yanma.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/yanma.png",
+    "sha256": "537811ebf0c829f5190a5ffa9f197728dbd19c04bc8d65da266a7dffa5d499bd"
+  },
+  {
+    "filename": "wooper.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/wooper.png",
+    "sha256": "2cb593b465a619aabca43857e976df933af30b2e12a2d562ef75ee7f698dad2d"
+  },
+  {
+    "filename": "quagsire.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/quagsire.png",
+    "sha256": "4e4a85ddc4a75e740c53dd06f88e5fcfaa2ef3f4bd26f771ffc0dd1c48777ad3"
+  },
+  {
+    "filename": "espeon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/espeon.png",
+    "sha256": "1ecbd28f8e5863c86ee9140c2e1643ad463967320c90c5d56899de205eb73961"
+  },
+  {
+    "filename": "umbreon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/umbreon.png",
+    "sha256": "08efe93341e86891e5d1947a4dcb905f7265eeb25f6164914d57374f282eb342"
+  },
+  {
+    "filename": "murkrow.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/murkrow.png",
+    "sha256": "279e865ad3a66833ff2b8481612cdc503ae5068641da63b420d287e7f0e22b36"
+  },
+  {
+    "filename": "slowking.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/slowking.png",
+    "sha256": "bea8a742ae4e50ffbb71fa449ecc50c765a15e6360ee8260281b7d171a48a094"
+  },
+  {
+    "filename": "misdreavus.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/misdreavus.png",
+    "sha256": "792e8bee3999a2f5446253932e1ac2d987379b95dcd91fe9614c15ea63581098"
+  },
+  {
+    "filename": "unown.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/unown.png",
+    "sha256": "63757b528517b9b66b849e6a7bbfbccf77dd3bfebfc8810d08760ac1da47bbcb"
+  },
+  {
+    "filename": "wobbuffet.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/wobbuffet.png",
+    "sha256": "5b296cbb9427e305c085ce9b7a0460d2887f77ab5f2635642dbe754ce6ef335c"
+  },
+  {
+    "filename": "girafarig.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/girafarig.png",
+    "sha256": "d5767661a696d63b3aa3f3335d28ba79201b72cc2054eb26b8965e8b03e23ac2"
+  },
+  {
+    "filename": "pineco.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/pineco.png",
+    "sha256": "fe82d11a21731f4ab689dd1c8e46533b59aeafde11f2e593d5c67ff66127f4f6"
+  },
+  {
+    "filename": "forretress.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/forretress.png",
+    "sha256": "33095a3e36f8acbed02ec5a6595f67df401084e255deb32362884ae58c35909e"
+  },
+  {
+    "filename": "dunsparce.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/dunsparce.png",
+    "sha256": "41cf4277889e1f41a99415e37d4d73d8cf6995c6b9dbbb3a2ddc005e8b7d1982"
+  },
+  {
+    "filename": "gligar.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/gligar.png",
+    "sha256": "9120e6e8079a4995679df11179ef62e1f5a8d72642d60484a37eecab45779ea1"
+  },
+  {
+    "filename": "steelix.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/steelix.png",
+    "sha256": "00b297dc4c87a735e10d9f80666ce924cca76d69cbcfc8364aca857e8c302728"
+  },
+  {
+    "filename": "snubbull.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/snubbull.png",
+    "sha256": "1fdd7a0538e010cce98594e4c12367e2f9b3084fde980d6e6e4a54c9c2c46e81"
+  },
+  {
+    "filename": "granbull.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/granbull.png",
+    "sha256": "2898fed2d4b84172f38560849e2bde840363283395da55f744c14bc872f50523"
+  },
+  {
+    "filename": "qwilfish.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/qwilfish.png",
+    "sha256": "9ccf9b1fb935a60006545560e130d90408da016a20e2f340862d138eac983750"
+  },
+  {
+    "filename": "scizor.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/scizor.png",
+    "sha256": "33234e0d3ef34d45566483b3e7fe5e251114c92e1ea210dd416beb0e0a7a3407"
+  },
+  {
+    "filename": "shuckle.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/shuckle.png",
+    "sha256": "fa3ed90efe2d09ed9a3e7e4dc327f704463b0b4653986e2da92fb789cf291faf"
+  },
+  {
+    "filename": "heracross.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/heracross.png",
+    "sha256": "80077c5a692d2aae674e1e1eb3e6051d0e9983380f3b76a8f9b0aa8ad7ae579f"
+  },
+  {
+    "filename": "sneasel.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sneasel.png",
+    "sha256": "0023857639ead7c79066c6a09ff1c5132109a9e59452de4ea07c06cf5869b265"
+  },
+  {
+    "filename": "teddiursa.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/teddiursa.png",
+    "sha256": "d95659533784d5d4a34c4d08d28d1845d15943f37cf29eefd4f83e7537d422ec"
+  },
+  {
+    "filename": "ursaring.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ursaring.png",
+    "sha256": "b3463c6e2d8fd3f36ef37c6a4c98730ea5748b059ea955e38788ce978c092731"
+  },
+  {
+    "filename": "slugma.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/slugma.png",
+    "sha256": "69a95a59e82b9d029d8d5ad4f45dda3f7701be8861460b9e8bd58619b58fbc14"
+  },
+  {
+    "filename": "magcargo.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/magcargo.png",
+    "sha256": "668bcd699bb37fce1f5712563fb3c3a910489ca6e0552525599d8ecbb3f64ec7"
+  },
+  {
+    "filename": "swinub.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/swinub.png",
+    "sha256": "16caa40c035763436afd5d7a2068fecd588509d5242dc03f7fa4365b3505fecf"
+  },
+  {
+    "filename": "piloswine.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/piloswine.png",
+    "sha256": "0708f6f12d567fcf7b28d63dbcb6e99249c60a6e8409d799950e5ce059ab9bb9"
+  },
+  {
+    "filename": "corsola.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/corsola.png",
+    "sha256": "d13321b4aa5686797e5bcdef0a12a1708c9528d0f056e0212979dfe415470c8b"
+  },
+  {
+    "filename": "remoraid.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/remoraid.png",
+    "sha256": "82188c41dd9c06b5fadbb558983613adb3fe925a013d2c16ef44887bf758bb08"
+  },
+  {
+    "filename": "octillery.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/octillery.png",
+    "sha256": "79e0fa4443467bdd4e077bd86905d1acf01ab56c4648812e6af9187ebc228e82"
+  },
+  {
+    "filename": "delibird.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/delibird.png",
+    "sha256": "f31808244b6096a704747d6ca7b254c5b9b8d931f005d1e6bfb58e025037b68a"
+  },
+  {
+    "filename": "mantine.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/mantine.png",
+    "sha256": "9af599f81b452c5474b45c407d639fec04e42d8fe0977324075f33d83f87b991"
+  },
+  {
+    "filename": "skarmory.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/skarmory.png",
+    "sha256": "f58fec635f7f642f880a6421ed8eb894f64f03e54c6ab5e39669dfd2cecac54c"
+  },
+  {
+    "filename": "houndour.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/houndour.png",
+    "sha256": "fef499cc8dacaf97f4676fec173b4b3f9ce32b6a2b0c05fe723d224475b43247"
+  },
+  {
+    "filename": "houndoom.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/houndoom.png",
+    "sha256": "ae68835651fbe10c7823f2649ef84ec82a4f5053c3fe015567fba2c2b5dc7764"
+  },
+  {
+    "filename": "kingdra.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/kingdra.png",
+    "sha256": "935103f24ba363a9fbc8651bcb471ccc84d28ddf8a6499a455c06ef0821ad6d1"
+  },
+  {
+    "filename": "phanpy.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/phanpy.png",
+    "sha256": "f23ff7e466c8ed2b5e337d09396eaaac36363553c6c4ec09fb6ddf22811c125e"
+  },
+  {
+    "filename": "donphan.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/donphan.png",
+    "sha256": "309d912574e219a8bea15d5f91cfcc5cf4dcdc8448b30b74149dc28fd771de99"
+  },
+  {
+    "filename": "porygon2.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/porygon2.png",
+    "sha256": "60df633e7e9f22a38af7c6631b9b212676dbda1720f7a9175538ca61a955c89f"
+  },
+  {
+    "filename": "stantler.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/stantler.png",
+    "sha256": "9c6a9da3bcaa2563417b5206544c04996a0a45115b811f67c22182167e33e694"
+  },
+  {
+    "filename": "smeargle.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/smeargle.png",
+    "sha256": "74f01376812de6d89bb312a03b5dba3e9fa671abe3952de5b5ce60dc9288824e"
+  },
+  {
+    "filename": "tyrogue.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/tyrogue.png",
+    "sha256": "f0c63c4e121221917c9d5c6781022993236ad364b4ef89b3bae7481879dcfb79"
+  },
+  {
+    "filename": "hitmontop.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/hitmontop.png",
+    "sha256": "041f2cc1a9a92fcd5b185e40578f11e022d42f72aaf69dbcb4caad49fe6d8464"
+  },
+  {
+    "filename": "smoochum.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/smoochum.png",
+    "sha256": "2cb820a71f9b02d3c7075fd7d700bb9c581f776db18e806b046171b402047c5c"
+  },
+  {
+    "filename": "elekid.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/elekid.png",
+    "sha256": "bfcc83bc9363b0d3cdf66b3d5239daa1395798f2e7b3af32fa44c6535e0e1b1e"
+  },
+  {
+    "filename": "magby.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/magby.png",
+    "sha256": "a4066954ffe930737a4cdf9b2993733f2dd054ead388c1df0d0bdbe52f590bc4"
+  },
+  {
+    "filename": "miltank.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/miltank.png",
+    "sha256": "cbd03fa34c4e23d32fcd870b8cb5fb9785570e15638fc62584f632b974236cd1"
+  },
+  {
+    "filename": "blissey.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/blissey.png",
+    "sha256": "425668671a0687e6af20c343a538acc6b2663aa89047e03b282111369b557747"
+  },
+  {
+    "filename": "raikou.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/raikou.png",
+    "sha256": "56e710be77dfd22dbb79c063d336998f10a34f9cda836c7c02bd2f9af1d36203"
+  },
+  {
+    "filename": "entei.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/entei.png",
+    "sha256": "154acc33655126748ef4799019f4259fb2540d7c235b73e63d2f81419e35cd48"
+  },
+  {
+    "filename": "suicune.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/suicune.png",
+    "sha256": "b42073e62ba319fabe612a6e8f1d49413b255bc98f425a5e35a1f3587a9819bb"
+  },
+  {
+    "filename": "larvitar.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/larvitar.png",
+    "sha256": "faf9c7cfd09f105c246a71be96691bbc1f0d3167b06c712c88182701fbabc3e3"
+  },
+  {
+    "filename": "pupitar.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/pupitar.png",
+    "sha256": "b420599e276705203d35d0230417c2bce140678d5a8b0669776ddc699c2976a8"
+  },
+  {
+    "filename": "tyranitar.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/tyranitar.png",
+    "sha256": "51c358ef988c22bd770cdf8b52eed9640fb16a172b5c734a8768002971c6c10b"
+  },
+  {
+    "filename": "lugia.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/lugia.png",
+    "sha256": "85371264e71ad2e9248a6940b29610af0bb7bd04dcf055db2f1183ba87fbff98"
+  },
+  {
+    "filename": "ho-oh.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ho-oh.png",
+    "sha256": "73c1b8d954ef65f4e12911f38290b9e8b2c2ed837e8c8c5587adbce382909e0b"
+  },
+  {
+    "filename": "celebi.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/celebi.png",
+    "sha256": "3b5b328128799a9f77b58ee6d4f06c1431fd33b1cb7be9caacf67063b4169625"
+  },
+  {
+    "filename": "treecko.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/treecko.png",
+    "sha256": "6ce68fdf2267b0f8ed9ac45046a5bd503bc61c2fe65bed3a19e9a54fb15131da"
+  },
+  {
+    "filename": "grovyle.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/grovyle.png",
+    "sha256": "96bc4ddcb03d0e1ee13d3219f6bcef3cef02e8c801f6a059615014473d46c89b"
+  },
+  {
+    "filename": "sceptile.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sceptile.png",
+    "sha256": "644e9332ccfde46a855c347a4bf8e6d2b174977b5288a0d20c651e36797b46cb"
+  },
+  {
+    "filename": "torchic.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/torchic.png",
+    "sha256": "5ba3e1b0f9ff924406b98c120306022e8722d2f72d632b871853b121f6923bf3"
+  },
+  {
+    "filename": "combusken.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/combusken.png",
+    "sha256": "47dfcec795a31c66ba230f2c529864ebbaf3316a7e13d3ce613eed5dacdf4491"
+  },
+  {
+    "filename": "blaziken.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/blaziken.png",
+    "sha256": "0a0b02bfdb4ba673287c04d3cc19d1b018e05860336100b3c2154d50b6831be3"
+  },
+  {
+    "filename": "mudkip.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/mudkip.png",
+    "sha256": "602c8abeeb5889732e5e5a4e5f5622b9c5518f4c4cb90361851d5c828e003c81"
+  },
+  {
+    "filename": "marshtomp.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/marshtomp.png",
+    "sha256": "b621817d43bf9ed7bd5a78609af8968b8c273b7b992b52605e6e1fcaec130641"
+  },
+  {
+    "filename": "swampert.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/swampert.png",
+    "sha256": "60cd8ed540c992046b37c08a7bb3d7599756f6ccb3c709b94125104340fce640"
+  },
+  {
+    "filename": "poochyena.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/poochyena.png",
+    "sha256": "cd15e58f4bddba316d163afbb38221653c71b662caaca49236351a9279f63b93"
+  },
+  {
+    "filename": "mightyena.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/mightyena.png",
+    "sha256": "5f432df01a30d1e41858d3179769f74535e204ed8ba9566e86ec12375c8cd256"
+  },
+  {
+    "filename": "zigzagoon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/zigzagoon.png",
+    "sha256": "6a202a36dc120539fef3049583d9f7c16a70bdc83bbe9b83eb454da365fd818b"
+  },
+  {
+    "filename": "linoone.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/linoone.png",
+    "sha256": "39b27757d47a201c7a81553277272b71083460eace56a237e783343e32eaebb7"
+  },
+  {
+    "filename": "wurmple.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/wurmple.png",
+    "sha256": "e5e68bdfb72a6bcc5225b1836dc80ed1fc7b45aa5d4cf9d633b73c8a63d4270b"
+  },
+  {
+    "filename": "silcoon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/silcoon.png",
+    "sha256": "472053f21dc5d7d8fd6bf4d39eafba2874f5309441b40401d15996db29a364fa"
+  },
+  {
+    "filename": "beautifly.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/beautifly.png",
+    "sha256": "b84d83645c5c887277515417f9c53bc5160b06478c79844ef89d8dd3206234fb"
+  },
+  {
+    "filename": "cascoon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/cascoon.png",
+    "sha256": "929100e5ed36211665fd6aca4f777658f5c9a6341ce650fe967cae4819f10428"
+  },
+  {
+    "filename": "dustox.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/dustox.png",
+    "sha256": "670d5ff24f48d8e4793a3a26e9d2bf7aac517f30df535a2cb130dfd9856be91e"
+  },
+  {
+    "filename": "lotad.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/lotad.png",
+    "sha256": "8727327c7e19e6cebff012dc884b8540fb973b82928c37fd8e5d890d166c542b"
+  },
+  {
+    "filename": "lombre.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/lombre.png",
+    "sha256": "6f6193c63105c39e6d02d676247da0683abad09154c1c254a7b803332f14de47"
+  },
+  {
+    "filename": "ludicolo.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ludicolo.png",
+    "sha256": "4affb07e56455ca2efa8f6c07f47f61be877748e5bace095f4fd7057047bdfba"
+  },
+  {
+    "filename": "seedot.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/seedot.png",
+    "sha256": "2c4fa81fce6000a5575b5e5290dcb0f128dd261a9e6606a22e796f164c1b16b3"
+  },
+  {
+    "filename": "nuzleaf.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/nuzleaf.png",
+    "sha256": "344a0f6219290d2dea219ce8e9d239d49318dd07a0ed6e51dcf2bdcbddbd1343"
+  },
+  {
+    "filename": "shiftry.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/shiftry.png",
+    "sha256": "4672361e2b2332a19f4242690282109772f0173164157b676a36805585f9cb9d"
+  },
+  {
+    "filename": "taillow.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/taillow.png",
+    "sha256": "f97ee6ea91f7db44ac84c2519742d7c549f02db6da55f394651d611fbb721f4c"
+  },
+  {
+    "filename": "swellow.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/swellow.png",
+    "sha256": "2950f439395421b1fe1ad6f8c2b5904290150c26c8e8b49feb82386bfcdf1bf9"
+  },
+  {
+    "filename": "wingull.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/wingull.png",
+    "sha256": "17ada2e558b01294d2498d5cb90b246b145284f99f2be6f707aefe37aaa303f7"
+  },
+  {
+    "filename": "pelipper.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/pelipper.png",
+    "sha256": "12dffe0fc177354d0c62402defb17defac267ab364cd988058e63057aaa989f7"
+  },
+  {
+    "filename": "ralts.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ralts.png",
+    "sha256": "321e9163b28e34c4b828a0d882228fb6001f8e6c7ea4bf05f0c4bd766882f1d5"
+  },
+  {
+    "filename": "kirlia.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/kirlia.png",
+    "sha256": "8bd908848fe282658990b2f4d6f9834e24889b179d1e8b5c51136b2e8f2c9242"
+  },
+  {
+    "filename": "gardevoir.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/gardevoir.png",
+    "sha256": "7db065fd0d6249693ca6eaa8cce275e4731a3b209865daa36374dbc707752187"
+  },
+  {
+    "filename": "surskit.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/surskit.png",
+    "sha256": "233aa003ed317a1a71273eb50ee034780776ff69b8b9e961ebe7cf6a6d7baf8f"
+  },
+  {
+    "filename": "masquerain.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/masquerain.png",
+    "sha256": "8abf8c692bdad8e86d2b97ebf154357c89e7403ee0922b512f98d9b2b61ec93b"
+  },
+  {
+    "filename": "shroomish.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/shroomish.png",
+    "sha256": "c4190845ec9e31a696af62ec5bf2386372d66eecccaa40627ae1e58ac6b755a7"
+  },
+  {
+    "filename": "breloom.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/breloom.png",
+    "sha256": "ef4168b84596fe6c0c07b61d4a00e2f06c657699fcf7d72ac473138379ca4250"
+  },
+  {
+    "filename": "slakoth.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/slakoth.png",
+    "sha256": "2e066e196834d991581c5ef4221bec25e7bd89fb9c39182a24096bf260bf435d"
+  },
+  {
+    "filename": "vigoroth.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/vigoroth.png",
+    "sha256": "9be91e294551e27d2e1621fd03e9531bd6855ee675901453d20daa9e5e95accf"
+  },
+  {
+    "filename": "slaking.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/slaking.png",
+    "sha256": "2e91270fe169f7dd56564e0467e3a9708bc6d9ff4cd273466439c356bc474afb"
+  },
+  {
+    "filename": "nincada.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/nincada.png",
+    "sha256": "77fd34ac5f40c776f88f16f1ff0f013b047e2857a772975feaec69c1f6da10fb"
+  },
+  {
+    "filename": "ninjask.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/ninjask.png",
+    "sha256": "3f7f9eeb0f2d70ec6297d4a0d8306a8ac59e5fa02d96042632999aa5b13a09f1"
+  },
+  {
+    "filename": "shedinja.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/shedinja.png",
+    "sha256": "f1d1b3d4347b12f4044ee4ec9e20598bd93ca16dc60056b8863ab8a96bca38b0"
+  },
+  {
+    "filename": "whismur.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/whismur.png",
+    "sha256": "5c7b59ce36e69b6d0f500162db9a734fc399a01952936c5e1c37bb5a42a940cf"
+  },
+  {
+    "filename": "loudred.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/loudred.png",
+    "sha256": "42fee81f465ffb013ed3c0bf769099d0a3c875e0b0d2e7a8b5589a00656720a6"
+  },
+  {
+    "filename": "exploud.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/exploud.png",
+    "sha256": "1c2acd01ca35298e22cd49fdf6b99ae3aa5b1df38197f3c1fdb7a67518ec8ae8"
+  },
+  {
+    "filename": "makuhita.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/makuhita.png",
+    "sha256": "9dc8bdf17f697f32127ac4bf8235931224a1a008ff61223e41b99deb04141e19"
+  },
+  {
+    "filename": "hariyama.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/hariyama.png",
+    "sha256": "e3a4140cee37683c12e2353a9166dd036fed83471feea20dc75f9fdda7be04dd"
+  },
+  {
+    "filename": "azurill.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/azurill.png",
+    "sha256": "facef7f70804410fde9d816ac184ebf7cd9a0f1337aa25e1e607894bd231e35b"
+  },
+  {
+    "filename": "nosepass.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/nosepass.png",
+    "sha256": "b7ce12559eb26a73b48525a4b37d1e0d4ca2e37f0716830cab58badcf0aeb3bd"
+  },
+  {
+    "filename": "skitty.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/skitty.png",
+    "sha256": "db48ae0ee3b13158a3a26476d6cea84a48666484c92deebaec8f845da5fea739"
+  },
+  {
+    "filename": "delcatty.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/delcatty.png",
+    "sha256": "d3a8be92cc5b26b368f397369aad50c41430c90ac5cac0796010d8a5100b7c4b"
+  },
+  {
+    "filename": "sableye.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sableye.png",
+    "sha256": "5c2c5b3a835687c47f6ed2dd8ff1740e69f3662859b20731d02621bb906b33bb"
+  },
+  {
+    "filename": "mawile.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/mawile.png",
+    "sha256": "76a547dce1339891455e5b1a09a67ed0ac087991126bdd2c6ecabf43129dec5c"
+  },
+  {
+    "filename": "aron.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/aron.png",
+    "sha256": "28a01601a82b799d87b96b5bfad06997a77f8e74bf5f0089113f826c36370d1c"
+  },
+  {
+    "filename": "lairon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/lairon.png",
+    "sha256": "7a8a234d4e8801bc798d64b1db834cc395c079b026c1e76955124ad7cffa2514"
+  },
+  {
+    "filename": "aggron.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/aggron.png",
+    "sha256": "64218a84ace66328c5940f55ed17c546499f3b459f0050743f6f1d375db09c15"
+  },
+  {
+    "filename": "meditite.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/meditite.png",
+    "sha256": "988faaa3fafe55124e72b8f4dc6876e5f30068b4c8b4768a6f9b1649a3190372"
+  },
+  {
+    "filename": "medicham.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/medicham.png",
+    "sha256": "a9e92c7d1bc82d153a464c4a97c19c28759abcf25419a2419b90b4473c266e09"
+  },
+  {
+    "filename": "electrike.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/electrike.png",
+    "sha256": "0778e8c8ec977a40fdc4d33906657c35304ba96975812fd0511ac62edcb0402e"
+  },
+  {
+    "filename": "manectric.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/manectric.png",
+    "sha256": "e0b1e4d161e9d25c8f148a7d74908e2ed425196d008784abe3cf1261ae28a599"
+  },
+  {
+    "filename": "plusle.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/plusle.png",
+    "sha256": "43b173364407329532f0e9ab08368d148ea5978d24b6c3cf546d1cbf978623b1"
+  },
+  {
+    "filename": "minun.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/minun.png",
+    "sha256": "2d7ba52ac4459751af1e5c7f8af25cd5daa6c4d2e02d0747c61639ae288d1d07"
+  },
+  {
+    "filename": "volbeat.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/volbeat.png",
+    "sha256": "df5ba1dc3107bbc8d811f9a99fed029759d67c7c3a6efc740deef89b7e22fd72"
+  },
+  {
+    "filename": "illumise.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/illumise.png",
+    "sha256": "088254e92091c8ca8d428ccd2c7119485d2d6ece4c4fa035f15ffdf61ae3cb95"
+  },
+  {
+    "filename": "roselia.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/roselia.png",
+    "sha256": "024451d0ad3d770969b5f3cec18d74887f5d36ba907cdeb14b137c394a4e8ff9"
+  },
+  {
+    "filename": "gulpin.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/gulpin.png",
+    "sha256": "82c69be436ea55d37355cc62786d67fe82b0843eb489bb74d8fa82d1ffdc7239"
+  },
+  {
+    "filename": "swalot.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/swalot.png",
+    "sha256": "fe47a5cd2458c8c33e7774de27fc7c942c68bc2410b105ed207f8000f839e33f"
+  },
+  {
+    "filename": "carvanha.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/carvanha.png",
+    "sha256": "3cd6de0bade54c67df827aeabb5d969b265069b4207d74b65ead50ef7af42bac"
+  },
+  {
+    "filename": "sharpedo.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sharpedo.png",
+    "sha256": "28a46ec88c79981223ab72e89aecef7d85efa96a60affc4f5da1639556f8c9c9"
+  },
+  {
+    "filename": "wailmer.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/wailmer.png",
+    "sha256": "19d4e5e0bf3c8fbd6344139bf714223b41bcaee26029f05380555b4f7325ffa4"
+  },
+  {
+    "filename": "wailord.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/wailord.png",
+    "sha256": "515b060fb11ca53ece259abcb4b071b623cd400fa505178705d4e5ae6b78930a"
+  },
+  {
+    "filename": "numel.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/numel.png",
+    "sha256": "3744b91b9982cba5ba799b661f8d260b3f1ece40a7a99132b133e24015273af8"
+  },
+  {
+    "filename": "camerupt.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/camerupt.png",
+    "sha256": "32fb1a060f13c332689788ed4d780e9254a255a91e89627ccc8fd526a935e2f1"
+  },
+  {
+    "filename": "torkoal.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/torkoal.png",
+    "sha256": "5810a9d9b0c19746687c345a8054e7a4359f32bf15fbda8af6e23307ae16103c"
+  },
+  {
+    "filename": "spoink.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/spoink.png",
+    "sha256": "40472ed8a08e7d06a4b7967562af9ffe57c6f2dfe606b08c68067f2c2a002cd9"
+  },
+  {
+    "filename": "grumpig.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/grumpig.png",
+    "sha256": "9c377520f76485ce0bd3e0c7ae445b68daf8e4a46a59d1e5b51c1b28e3fd04b4"
+  },
+  {
+    "filename": "spinda.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/spinda.png",
+    "sha256": "9e700b7d04676be273d7375561ebe72734275c30f5311db8e2817560154a311b"
+  },
+  {
+    "filename": "trapinch.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/trapinch.png",
+    "sha256": "cbf1cace9e79310c352c02f4b61e5f21b1ccca6f5157312c9fd06e9297d34c1b"
+  },
+  {
+    "filename": "vibrava.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/vibrava.png",
+    "sha256": "bcbc274978dc4384b704c3786e828df78ca0822007c848359aa751d0a6c6c1d1"
+  },
+  {
+    "filename": "flygon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/flygon.png",
+    "sha256": "a4def4d0f46c1eea4b497e67109b631efc487f0fe6113b19d719962c7728c687"
+  },
+  {
+    "filename": "cacnea.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/cacnea.png",
+    "sha256": "2687c975c282edf947bbb93d53801519b3520c77c9761f6e266a27e6a05f07cd"
+  },
+  {
+    "filename": "cacturne.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/cacturne.png",
+    "sha256": "86212e731d1510bcc1447a2309877233acf3590d7443c11c529cd76a47ad5eae"
+  },
+  {
+    "filename": "swablu.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/swablu.png",
+    "sha256": "36f5c0ae0b9b82c307150b9d30bf2d213b7e56d40935e9eef03a81f12ad3c846"
+  },
+  {
+    "filename": "altaria.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/altaria.png",
+    "sha256": "6ac0adc919a8597abfcd821168baf7768c591b40ca2d7a4d80b5cc3f7e170743"
+  },
+  {
+    "filename": "zangoose.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/zangoose.png",
+    "sha256": "4141c92fb77c4393e14e993bce65848aec2dd00ccd52d51a1c9dbeb45d5bed5e"
+  },
+  {
+    "filename": "seviper.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/seviper.png",
+    "sha256": "7062034473627ccd6a4175f08dcc268d98743a7fdab16554de6d352e5dc1912b"
+  },
+  {
+    "filename": "lunatone.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/lunatone.png",
+    "sha256": "cbea8aee1fdfe3e98d5c0dac696db0f77c8e9e5cc21ad9b83a064f8bc2a1ad3c"
+  },
+  {
+    "filename": "solrock.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/solrock.png",
+    "sha256": "a43b5fd1a7aeae9e82d3997b504ec81f6e6cac62f64f077a5507f8c6e42ee764"
+  },
+  {
+    "filename": "barboach.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/barboach.png",
+    "sha256": "2bb36806e457305a1cdd4abeda1826dd25610fe617a7026b9b0ed09474106cfd"
+  },
+  {
+    "filename": "whiscash.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/whiscash.png",
+    "sha256": "592f775bf3597c3182bda18a4a693172d8a351e534fcf882b6484592033aa0fe"
+  },
+  {
+    "filename": "corphish.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/corphish.png",
+    "sha256": "ef5f21644e3e49f9fcb60a0c824660258632cd04305a04a1c946cae7fc0bad81"
+  },
+  {
+    "filename": "crawdaunt.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/crawdaunt.png",
+    "sha256": "bd89c54311b904c4b1d020ef2a8ebe1191ea4babae4b966fc82641b13decbeb0"
+  },
+  {
+    "filename": "baltoy.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/baltoy.png",
+    "sha256": "44ce5b407555de6ec0f55e2b6e9b29fff9d3ad6214bf5ab8f207b7f7a4021176"
+  },
+  {
+    "filename": "claydol.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/claydol.png",
+    "sha256": "bac670e4ad436ab60421dee3c5cc3c2463643bcefcf10d86387a71a18eb12708"
+  },
+  {
+    "filename": "lileep.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/lileep.png",
+    "sha256": "8540928a1c9582ad8e4b29a17c340f770bfd7386f281424a6ce6df54a75dbd3b"
+  },
+  {
+    "filename": "cradily.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/cradily.png",
+    "sha256": "86209f66cc6e2ee8318155613582a866a5aca665f1d68238e9b9827353210f65"
+  },
+  {
+    "filename": "anorith.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/anorith.png",
+    "sha256": "c7834259221730497e01b1e6445059f5fa45cc7ffd13256b42029d79ee4ecf9e"
+  },
+  {
+    "filename": "armaldo.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/armaldo.png",
+    "sha256": "46bd44fd0c3b75b4589c3c254913cf4335a758c808441ed16ffd99371f4cee0c"
+  },
+  {
+    "filename": "feebas.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/feebas.png",
+    "sha256": "157f5f0b5c7de10261ead9bdda7882d6c308388b906077aee6d7bea557cd60ea"
+  },
+  {
+    "filename": "milotic.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/milotic.png",
+    "sha256": "806a2a82437cf67f103a82769552bf4004c5aa339e33da420f62b7063ea4537f"
+  },
+  {
+    "filename": "castform.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/castform.png",
+    "sha256": "01de117d500297f4b7a85aa7f5063aa888a09a4a218d393fdb2ac67914291813"
+  },
+  {
+    "filename": "kecleon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/kecleon.png",
+    "sha256": "5d607965dfff1ff36bc7f3589b2fe43b5b45e031444514b6956222c3cddfec42"
+  },
+  {
+    "filename": "shuppet.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/shuppet.png",
+    "sha256": "3c2fb330365deaf51d92ca148dc94c439095e913f743f87a05599cc36d17e96f"
+  },
+  {
+    "filename": "banette.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/banette.png",
+    "sha256": "06178ee8feebc94328addd30cd7353489b7e58c8474bfad9ca227e9dca73ef88"
+  },
+  {
+    "filename": "duskull.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/duskull.png",
+    "sha256": "ba623a0e0b583b08c5b9e55db0819d22860636c9837a1f474314669a7a004580"
+  },
+  {
+    "filename": "dusclops.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/dusclops.png",
+    "sha256": "3ece9422f0a82b113a29d1f34499bd074ff2be2690e65bca176b4371a5d22a0f"
+  },
+  {
+    "filename": "tropius.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/tropius.png",
+    "sha256": "d15dfaf8971c9a9ec700e88c3050741bca43451316cb29348f9571f922fae519"
+  },
+  {
+    "filename": "chimecho.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/chimecho.png",
+    "sha256": "111f54781b13394977218dc0d483c6769cd3bd13c1c4b80ffeaf8dc0bce05b9c"
+  },
+  {
+    "filename": "absol.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/absol.png",
+    "sha256": "61c28c1cfbc61aa0f94b9511fcdd99ad3ae36a17639af425475fa7dc25480afe"
+  },
+  {
+    "filename": "wynaut.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/wynaut.png",
+    "sha256": "b88c0f8b2e3e62e840be71ad52f7135e8285b92f8df246ed0698b85faaffb089"
+  },
+  {
+    "filename": "snorunt.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/snorunt.png",
+    "sha256": "50f48b6e2eed2f8527a764fa042c3fb12eba4d80491424154aef58e84f372c59"
+  },
+  {
+    "filename": "glalie.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/glalie.png",
+    "sha256": "3b4bf19485023a69f289162a8bc563b138dd881987c8e2d862e2b0cfa515aa27"
+  },
+  {
+    "filename": "spheal.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/spheal.png",
+    "sha256": "6e6bfb9702b23dfd7dfe19cf574493481fab08a25eb4174f1e7c27bf3805a743"
+  },
+  {
+    "filename": "sealeo.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/sealeo.png",
+    "sha256": "0a43f0249cdc0843b075730908d4ac2244a203a984f28b17e5459a019ea9aa08"
+  },
+  {
+    "filename": "walrein.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/walrein.png",
+    "sha256": "b0fd079d10927006427e543f2cbad05a92a6ae6d4752763617d48dd3b9a3f6f9"
+  },
+  {
+    "filename": "clamperl.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/clamperl.png",
+    "sha256": "11510d661025f76105d5e906a28581f9f5cfc4c2f8e941e59165a07adf963b55"
+  },
+  {
+    "filename": "huntail.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/huntail.png",
+    "sha256": "68fd2b0ef6908ac50530bf1b7893b20356976197bdadba34158c73745a4179eb"
+  },
+  {
+    "filename": "gorebyss.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/gorebyss.png",
+    "sha256": "5f5c4709a7c0c2aaaa1b6311932b92f5774e167386f91808a6e7ebb7b7c4261b"
+  },
+  {
+    "filename": "relicanth.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/relicanth.png",
+    "sha256": "243b1192e3491a8412fa2c8457b694c5400dc3bec787c6427dda652330d32650"
+  },
+  {
+    "filename": "luvdisc.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/luvdisc.png",
+    "sha256": "611117a170063438be863e98accccc74c3716c38ba88d275e37b77c25568cd0b"
+  },
+  {
+    "filename": "bagon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/bagon.png",
+    "sha256": "91ceab3aaf0757f76553171d295713b5b2f93ca8e6ef2f0f763212c640d8b6e0"
+  },
+  {
+    "filename": "shelgon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/shelgon.png",
+    "sha256": "973e4685fe928e58fa75e5bb6cd5dddf9941646e5dcef4e179714054e1cfa711"
+  },
+  {
+    "filename": "salamence.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/salamence.png",
+    "sha256": "e50c6be51718a84f55672315f43ecf0a828397460ecb9e31891c97fa3842ebaa"
+  },
+  {
+    "filename": "beldum.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/beldum.png",
+    "sha256": "94154f2980ca0d26779addf46dc245e3a44c9fc49611835808e455ce957b3958"
+  },
+  {
+    "filename": "metang.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/metang.png",
+    "sha256": "4efe14e7f75fc0716e0810ba731d7fb3b8448ae168a8086f0ab7c399e388d2f1"
+  },
+  {
+    "filename": "metagross.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/metagross.png",
+    "sha256": "f7a101fab55334ac92faaf581e2b34f2c41439cfdc7bd6f770f9c27f4bf86a52"
+  },
+  {
+    "filename": "regirock.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/regirock.png",
+    "sha256": "72378b44cf836fbebd85598bb1ffeb3a7be90a230807993a89de5ff7a572d46c"
+  },
+  {
+    "filename": "regice.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/regice.png",
+    "sha256": "d96222d91771ec7e8c705f3d9eff8110a7841a8eae3694d927ceb66def6e5b16"
+  },
+  {
+    "filename": "registeel.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/registeel.png",
+    "sha256": "554b24b0a76e17d775989add2c020d3fe34b6cb67f3b8b6fe228958766b7ad05"
+  },
+  {
+    "filename": "latias.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/latias.png",
+    "sha256": "7c97f7695f7d7c39c2445cd9ced07302effb192f243f778f45b31d7b2215017f"
+  },
+  {
+    "filename": "latios.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/latios.png",
+    "sha256": "750b780c2b010f37977efe28ce5d2f43b36bf247652a3e60cd4fc418ddc9a376"
+  },
+  {
+    "filename": "kyogre.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/kyogre.png",
+    "sha256": "02e62e9f81891983e9f37dc5f8bcbe394d848dae36cdbdd74995fd86846ffb83"
+  },
+  {
+    "filename": "groudon.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/groudon.png",
+    "sha256": "a41d5887f6865e17fe9f40bf3020578ffe4320a314d4bb96595eafb9b69fce08"
+  },
+  {
+    "filename": "rayquaza.png",
+    "url": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/rayquaza.png",
+    "sha256": "43e999c624ac8101cca03f3d489a3b2d6d474c2cff2d11313ae9aa7e6a8ab531"
+  }
+]

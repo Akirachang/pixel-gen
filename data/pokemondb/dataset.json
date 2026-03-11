@@ -1,0 +1,6 @@
+{
+  "name": "pokemondb",
+  "source": "pokemondb.net",
+  "description": "Gen 3 (Ruby/Sapphire) front-facing Pokémon sprites",
+  "sprite_size": 64
+}

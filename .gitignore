@@ -1,0 +1,17 @@
+# Data (reproducible via scrape scripts)
+data/*/raw/
+data/*/processed/
+
+# Training artifacts
+checkpoints/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
