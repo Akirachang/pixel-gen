@@ -8,6 +8,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent
 DATA_DIR = PROJECT_ROOT / "data"
 CHECKPOINT_DIR = PROJECT_ROOT / "checkpoints"
+RUNS_DIR = PROJECT_ROOT / "runs"
 OUTPUT_DIR = PROJECT_ROOT / "outputs"
 
 # ── Global defaults ────────────────────────────────────
