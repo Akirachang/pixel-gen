@@ -15,7 +15,9 @@ class CausalSelfAttention(nn.Module):
         dropout: Dropout probability.
     """
 
-    def __init__(self, d_model: int, n_heads: int, max_seq_len: int, dropout: float) -> None:
+    def __init__(
+        self, d_model: int, n_heads: int, max_seq_len: int, dropout: float
+    ) -> None:
         super().__init__()
         assert d_model % n_heads == 0
         self.n_heads = n_heads
@@ -37,7 +39,7 @@ class CausalSelfAttention(nn.Module):
         qkv = qkv.permute(2, 0, 3, 1, 4)  # (3, B, H, T, D)
         q, k, v = qkv.unbind(0)
 
-        attn = (q @ k.transpose(-2, -1)) * (self.head_dim ** -0.5)
+        attn = (q @ k.transpose(-2, -1)) * (self.head_dim**-0.5)
         attn = attn.masked_fill(self.mask[:, :, :T, :T] == 0, float("-inf"))
         attn = F.softmax(attn, dim=-1)
         attn = self.attn_drop(attn)
@@ -56,7 +58,9 @@ class TransformerBlock(nn.Module):
         dropout: Dropout probability.
     """
 
-    def __init__(self, d_model: int, n_heads: int, max_seq_len: int, dropout: float) -> None:
+    def __init__(
+        self, d_model: int, n_heads: int, max_seq_len: int, dropout: float
+    ) -> None:
         super().__init__()
         self.ln1 = nn.LayerNorm(d_model)
         self.attn = CausalSelfAttention(d_model, n_heads, max_seq_len, dropout)
@@ -121,7 +125,10 @@ class PixelGPT(nn.Module):
         self.drop = nn.Dropout(dropout)
 
         self.blocks = nn.Sequential(
-            *[TransformerBlock(d_model, n_heads, max_seq_len, dropout) for _ in range(n_layers)]
+            *[
+                TransformerBlock(d_model, n_heads, max_seq_len, dropout)
+                for _ in range(n_layers)
+            ]
         )
         self.ln_f = nn.LayerNorm(d_model)
 
@@ -158,13 +165,15 @@ class PixelGPT(nn.Module):
             logits: (B, T, pixel_vocab_size) predictions over pixel vocabulary.
         """
         _, T = desc_tokens.shape
-        assert T <= self.max_seq_len, f"Sequence length {T} exceeds max {self.max_seq_len}"
+        assert T <= self.max_seq_len, (
+            f"Sequence length {T} exceeds max {self.max_seq_len}"
+        )
 
         pos = torch.arange(T, device=desc_tokens.device).unsqueeze(0)
 
         # Embed description and pixel tokens separately, then combine
-        desc_emb = self.desc_embed(desc_tokens)   # (B, T, D)
-        pixel_emb = self.pixel_embed(pixel_tokens) # (B, T, D)
+        desc_emb = self.desc_embed(desc_tokens)  # (B, T, D)
+        pixel_emb = self.pixel_embed(pixel_tokens)  # (B, T, D)
 
         # Use is_pixel mask to select the right embedding per position
         is_pixel_f = is_pixel.unsqueeze(-1).float()  # (B, T, 1)
@@ -231,8 +240,8 @@ class PixelGPT(nn.Module):
 
             # Truncate if exceeding max length (sliding window)
             if seq_desc.shape[1] > self.max_seq_len:
-                seq_desc = seq_desc[:, -self.max_seq_len:]
-                seq_pixel = seq_pixel[:, -self.max_seq_len:]
-                seq_is_pixel = seq_is_pixel[:, -self.max_seq_len:]
+                seq_desc = seq_desc[:, -self.max_seq_len :]
+                seq_pixel = seq_pixel[:, -self.max_seq_len :]
+                seq_is_pixel = seq_is_pixel[:, -self.max_seq_len :]
 
         return generated_pixels
