@@ -3,7 +3,6 @@
 import json
 from pathlib import Path
 
-
 # Special tokens
 PAD_TOKEN = "<PAD>"
 DESC_START_TOKEN = "<DESC_START>"
@@ -11,7 +10,13 @@ DESC_END_TOKEN = "<DESC_END>"
 IMG_START_TOKEN = "<IMG_START>"
 IMG_END_TOKEN = "<IMG_END>"
 
-SPECIAL_TOKENS = [PAD_TOKEN, DESC_START_TOKEN, DESC_END_TOKEN, IMG_START_TOKEN, IMG_END_TOKEN]
+SPECIAL_TOKENS = [
+    PAD_TOKEN,
+    DESC_START_TOKEN,
+    DESC_END_TOKEN,
+    IMG_START_TOKEN,
+    IMG_END_TOKEN,
+]
 
 
 class DescriptionTokenizer:
