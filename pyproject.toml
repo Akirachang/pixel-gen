@@ -1,0 +1,13 @@
+[project]
+name = "pixel-gen"
+version = "0.1.0"
+description = "Train a small AI model to generate pixel art sprites"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.0",
+    "numpy",
+    "pillow",
+    "tensorboard",
+    "tqdm"
+]
